@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MacBookPro</title>
+        <link>https://example.com/</link>
+        <description>Hugo theme - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Feb 2023 03:19:55 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>DocTest</title>
+    <link>https://example.com/doctest/</link>
+    <pubDate>Mon, 20 Feb 2023 03:19:55 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/doctest/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>First Demo</title>
+    <link>https://example.com/first-demo/</link>
+    <pubDate>Mon, 20 Feb 2023 01:46:46 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/first-demo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
